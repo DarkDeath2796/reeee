@@ -10,7 +10,7 @@ try:
 
     bot = commands.Bot(command_prefix='y ', intents=discord.Intents.all())
 
-    token = 'MTMzMDI4Njk0NDIwNjMyMzc3NQ.G9b55T.2ejqK-u6T_ZToTXOJ23K3Vb4g0TfwP-hFem1i4'
+    token = ''
 
     async def create_and_attach(ctx, content = "0", fname = "file"):
         """
